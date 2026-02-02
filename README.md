@@ -1,5 +1,9 @@
+
+# Évaluation Git & GitHub
+Projet réalisé dans le cadre d'une évaluation Git & GitHub pour débutant.
 # git-github-evaluation
-echo TCHAPDIE KAWA Jovanie
+MON: TCHAPDIE KAWA 
+Prenom:Jovanie
 ## Différence entre Git et GitHub
 
 ### Git
